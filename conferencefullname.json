@@ -1,0 +1,8 @@
+{
+    "ICLR": "International Conference on Learning Representations",
+    "CVPR": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "NeurIPS": "Conference on Neural Information Processing Systems (NeurIPS)",
+    "ICML": "International Conference on Machine Learning (ICML)",
+    "ACL": "Annual Meeting of the Association for Computational Linguistics (ACL)",
+    "EMNLP": "Conference on Empirical Methods in Natural Language Processing (EMNLP)"
+}
