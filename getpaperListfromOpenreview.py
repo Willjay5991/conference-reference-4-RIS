@@ -108,10 +108,11 @@ def write_to_ris(submissions, output_file, year, conference_name):
 
 if __name__ == "__main__":
 
+    ##############################################################
     # customize the venue_id and status
     venue_id = 'ICLR.cc/2025/Conference' # ICLR.cc/2023/Conference
-    status = 'all'  # accepted, under-review, all, under_review, desk_rejected.
-
+    status = 'accepted'  # accepted, under-review, all, under_review, desk_rejected.
+    ##############################################################
     year = venue_id.split('/')[1]
     conference_name = venue_id.split('/')[0].split('.')[0]
     print(conference_full_name[conference_name])
